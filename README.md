@@ -1,1 +1,1 @@
-Convite digital premium Nicolle XV. Versão final estável em arquivo único.
+Convite digital Nicolle XV - versão definitiva.
