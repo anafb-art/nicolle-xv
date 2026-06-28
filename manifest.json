@@ -3,11 +3,11 @@
   "short_name": "Nicolle XV",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#5d3b78",
-  "theme_color": "#5d3b78",
+  "background_color": "#5b3777",
+  "theme_color": "#5b3777",
   "icons": [
     {
-      "src": "capa-nicolle-xv.png",
+      "src": "assets/capa.png",
       "sizes": "512x512",
       "type": "image/png"
     }
